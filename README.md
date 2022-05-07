@@ -1,2 +1,2 @@
-# Pokemon-Pi-System
-A Discord bot for Pokemon Pi fangame.
+# Kbot
+Un bot sympa pour les Îles Kerguelen sur NG. 
