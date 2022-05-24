@@ -1,4 +1,3 @@
-const http = new Agent();
 const Discord = require("discord.js");
 const client = new Discord.Client({ intents: [Discord.Intents.FLAGS.GUILDS] });
 require("dotenv").config();
